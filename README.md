@@ -1,1 +1,2 @@
 # Projetos
+Ola! Aqui é Henri MUniz Fudali atualmente sou aluno do curso de desinvolvimento de sistemas da etec Regiatro, futuramente prentendo ingressar na fatec Registro e cursar programação de software que é meu imprego dos sonhos.
